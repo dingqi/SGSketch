@@ -1,7 +1,7 @@
 # SGSketch
 This is the implementation for SGSketch in MATLAB with C (see the following paper):
 
-Dingqi Yang, Bingqing Qu, Jie Yang, Liang Wang, and Philippe Cudre-Mauroux, Streaming Graph Embeddings via Incremental Neighborhood Sketching, 2021 (under review)
+Dingqi Yang, Bingqing Qu, Jie Yang, Liang Wang, and Philippe Cudre-Mauroux, Streaming Graph Embeddings via Incremental Neighborhood Sketching, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
 
 How to use (Tested on MATLAB 2017b on MacOS and Ubuntu):
 1. Compile sgsketch_node_embs_fast.c and sgupdate_node_embs_fast.c using mex (in MATLAB): 
